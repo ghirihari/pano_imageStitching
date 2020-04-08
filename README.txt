@@ -1,2 +1,2 @@
-Keep Input Files inside pics directory
+Keep Input images inside pics/ directory
 Output is generated as result.jpeg 
